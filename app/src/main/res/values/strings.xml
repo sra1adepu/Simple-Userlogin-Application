@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SimpleUserLoginApplication</string>
+
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="Email">Mail ID</string>
+    <string name="Mobile_Number">Mobile Number</string>
+    <string name="Gender">Gender</string>
+    <string name="dob">DOB</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string-array name="qualification">
+        <item>Select</item>
+        <item>Secondory Education</item>
+        <item>Inter</item>
+        <item>Bacherolas</item>
+    </string-array>
+    <string name="userprofile_pic">Profile Pic</string>
+    <string-array name="user_pic">
+        <item>Camera</item>
+        <item>Gallery</item>
+
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
